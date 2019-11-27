@@ -1,11 +1,11 @@
 # Site settings
 author: Kevin Downs
-title: 
+title: The Little Coder that Could
 header-img: img/home-bg.png
 email: kevin.downs04@gmail.com
 copyright_name: Kevin Downs
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reflections and Things Learned at Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  kjdowns
